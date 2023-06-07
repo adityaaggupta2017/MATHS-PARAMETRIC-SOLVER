@@ -65,6 +65,7 @@ def scaling_ROWS(n,i,list2):
                 t+=1
                 #regeggegewge
                 #wfeqfqeffeqfqf
+                #fef23f32ff32f32#]\\
             j+=1
     else:
         funswapROWS(n,i,list2)
