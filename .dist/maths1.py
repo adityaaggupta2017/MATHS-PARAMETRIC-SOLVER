@@ -63,6 +63,8 @@ def scaling_ROWS(n,i,list2):
             while t<c:
                 list2[j][t]=str(((float(list2[j][t])-s*float(list2[n][t]))))
                 t+=1
+                #regeggegewge
+                #wfeqfqeffeqfqf
             j+=1
     else:
         funswapROWS(n,i,list2)
